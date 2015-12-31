@@ -52,4 +52,4 @@ end
 #File.close(filename)
 
 puts "-#{y}- lines were written to file. #{filename}"
-puts "Type \"cat #{filename}\" to view contents from command line."
+puts "Type \"cat #{filename}\" to view contents from command line..."
